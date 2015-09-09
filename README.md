@@ -9,8 +9,5 @@ This package will do the following for you
 * You will have to copy index.html from _src/_ to _dist/_ manually
 
 Run the following command to see the effects:
-1 npm run build  
-This command will compile everything into a compressed js file to _dist/_ folder
-2 npm run dev  
-This command will run a live reload server @ localhost:8080, you may open this
-address in the browser
+1. npm run build  
+2. npm run dev  
