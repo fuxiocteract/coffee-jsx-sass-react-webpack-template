@@ -1,5 +1,5 @@
 {
-  "name": "wmm template project",
+  "name": "coffee-jsx-sass-react-webpack-template",
   "version": "0.0.1",
   "description": "cool template project got everything set up outta box",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "\\"
+    "coffee", "cjsx", "sass", "react", "webpack", "template"
   ],
   "author": "Shuo Huang",
   "license": "ISC",
